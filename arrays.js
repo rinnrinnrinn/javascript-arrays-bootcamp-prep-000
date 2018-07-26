@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
 var candy = "foo"
 
@@ -42,3 +43,5 @@ function destructivelyRemoveElementFromEndOfArray(chocolateBars) {
 function removeElementFromEndOfArray(chocolateBars) {
   return chocolateBars.slice(0, chocolateBars.length - 1);
 }
+=======
+>>>>>>> 3e8cc77696f8093c0d0fc1769110f4daa2cb43eb
